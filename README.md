@@ -16,9 +16,9 @@ _I'm working **full-stack**, but heavily focused on **FrontEnd.**_
 ```yaml
 Actively working with:
   Languages:
-  - TypeScript
+  - TypeScript, Python
   Frontend:
-  - React, Next
+  - React, NextJS
   - Zustand, React-Query, Framer-Motion
   Styling/Component-library:
   - Tailwind CSS, Styled Components, CSS3, Sass
@@ -29,7 +29,7 @@ Actively working with:
   - Prisma
 ```
 
-### Things you might wanna know
+### Other things you might want to know
 
 - 🔭 <b>Currently working with:</b> Mentioned above **↑**
 - 🌱 <b>Trying to be better at:</b> Leading a team, Being a Product owner.

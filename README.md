@@ -18,15 +18,16 @@ Actively working with:
   Languages:
   - TypeScript, Python
   Frontend:
-  - React, NextJS
-  - Zustand, React-Query, Framer-Motion
+  - React, NextJS, Framer-Motion
+  - Zustand, React-Query, SWR
   Styling/Component-library:
-  - Tailwind CSS, Styled Components, CSS3, Sass
-  - Material UI, StoryBook
+  - CSS3, Sass, Styled Components
+  - Tailwind CSS, Chakra-UI, Radix-UI, Shadcn
+  - CVA, StoryBook
   Database:
   - Supabase, Firebase, MongoDB
   Backend:
-  - Prisma
+  - tRPC, Express, Prisma
 ```
 
 ### Other things you might want to know
